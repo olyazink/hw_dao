@@ -1,4 +1,4 @@
-package Repository;
+package ru.netology.hwdao.Repository;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;

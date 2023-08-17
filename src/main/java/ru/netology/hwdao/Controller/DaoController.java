@@ -1,6 +1,6 @@
-package Controller;
+package ru.netology.hwdao.Controller;
 
-import Repository.DaoRepository;
+import ru.netology.hwdao.Repository.DaoRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
